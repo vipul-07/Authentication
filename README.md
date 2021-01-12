@@ -12,8 +12,6 @@ Node JS most famous framework is`Express`. Many developer recommends `express` f
 
 ##### Run migration for database tables
 - Go to project level root directory and run `` npm install ``
-- Update any model with new fields with corresponding "Type"
-- Run npm run build command (It will create build folder)
 
 
 ##### Set environment variable
